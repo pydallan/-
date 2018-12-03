@@ -1,0 +1,12 @@
+{
+  "search": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#58bc58",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "component": true,
+  "usingComponents": {
+    "xsearch": "/components/search/search"
+    }
+}

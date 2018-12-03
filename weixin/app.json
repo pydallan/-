@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/weixin/weixin",
+    "pages/me/me",
+    "components/search/search",
+    "components/wowo/wowo",
+    "pages/search/search"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#09879f",
+    "selectedColor": "#58bc58",
+    "backgroundColor": "#ccc",
+    "list": [
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志"
+      },
+      {
+        "pagePath": "pages/weixin/weixin",
+        "text": "微信"
+      }
+    ]
+  }
+}
